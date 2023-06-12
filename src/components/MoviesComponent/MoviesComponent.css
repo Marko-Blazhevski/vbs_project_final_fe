@@ -1,0 +1,7 @@
+.movie {
+    cursor: pointer;
+    transition: 0.5s color;
+}
+.movie:hover{
+    color: red;
+}
